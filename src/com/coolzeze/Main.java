@@ -9,6 +9,10 @@ public class Main {
         return a + b;
     }
 
+    public static int minus(int a, int b) {
+        return a - b;
+    }
+
     private static void fun() {
         System.out.println("fun");
         List<Integer> list = new ArrayList<>();
