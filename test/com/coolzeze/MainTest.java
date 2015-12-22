@@ -27,4 +27,15 @@ public class MainTest {
         assertEquals(main.add(2, 4), 6);
         assertNotEquals(main.add(3, 3), 9);
     }
+
+
+    @Test
+    public void testMinus() throws Exception {
+
+    }
+
+    @Test
+    public void testMultiply() throws Exception {
+
+    }
 }

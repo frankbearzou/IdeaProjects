@@ -13,6 +13,12 @@ public class Main {
         return a - b;
     }
 
+    public static double multiply(int a, int b) {
+        double ret;
+        ret = a * b;
+        return ret;
+    }
+
     private static void fun() {
         System.out.println("fun");
         List<Integer> list = new ArrayList<>();
